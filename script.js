@@ -1,4 +1,4 @@
-function checkTest(){
+function checkText(){
     const text = document.getElementById("text");
     const label = document.getElementsById("label");
     const button = document.getElementById("button")
